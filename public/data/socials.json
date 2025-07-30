@@ -1,0 +1,127 @@
+{
+  "platforms": [
+    {
+        "id": "1",
+        "name": "facebook",
+        "icon": "/images/icon-facebook.svg",
+        "username": "@nathanf",
+        "totalFollowers": "1987",
+        "followersChange": "12",
+        "changeDirection": "/images/icon-up.svg", 
+        "changeState": "up"
+    },
+    {
+        "id": "2",
+        "name": "twitter",
+        "icon": "/images/icon-twitter.svg",
+        "username": "@nathanf",
+        "totalFollowers": "1044",
+        "followersChange": "99",
+        "changeDirection": "/images/icon-up.svg", 
+        "changeState": "up"
+    },
+    {
+        "id": "3",
+        "name": "instagram",
+        "icon": "/images/icon-instagram.svg",
+        "username": "@realnathnaf",
+        "totalFollowers": "11K",
+        "followersChange": "1099",
+        "changeDirection": "/images/icon-up.svg", 
+        "changeState": "up"
+    },
+    {
+        "id": "4",
+        "name": "youtube",
+        "icon": "/images/icon-youtube.svg",
+        "username": "Nathan F.",
+        "totalFollowers": "8259",
+        "followersChange": "144",
+        "changeDirection": "/images/icon-down.svg", 
+        "changeState": "down"
+    }
+  ],
+
+  "todayOverview": [
+    {
+        "id": "1",
+        "name": "facebook",
+        "icon": "/images/icon-facebook.svg",
+        "metric": "Profile Views",
+        "metricValue": "87",
+        "percent": "3",
+        "changeDirection": "/images/icon-up.svg", 
+        "changeState": "up"
+    },
+    {
+        "id": "2",
+        "name": "facebook",
+        "icon": "/images/icon-facebook.svg",
+        "metric": "Likes",
+        "metricValue": "52",
+        "percent": "2",
+        "changeDirection": "/images/icon-down.svg", 
+        "changeState": "down"
+    },
+    {
+        "id": "3",
+        "name": "instagram",
+        "icon": "/images/icon-instagram.svg",
+        "metric": "Likes",
+        "metricValue": "5462",
+        "percent": "2257",
+        "changeDirection": "/images/icon-up.svg", 
+        "changeState": "up"
+    },
+    {
+        "id": "4",
+        "name": "instagram",
+        "icon": "/images/icon-instagram.svg",
+        "metric": "Profi Views",
+        "metricValue": "52K",
+        "percent": "1375",
+        "changeDirection": "/images/icon-up.svg", 
+        "changeState": "up"
+    },
+    {
+        "id": "5",
+        "name": "twitter",
+        "icon": "/images/icon-twitter.svg",
+        "metric": "Retweets",
+        "metricValue": "117",
+        "percent": "303",
+        "changeDirection": "/images/icon-up.svg", 
+        "changeState": "up"
+    },
+    {
+        "id": "6",
+        "name": "twitter",
+        "icon": "/images/icon-twitter.svg",
+        "metric": "Likes",
+        "metricValue": "507",
+        "percent": "553",
+        "changeDirection": "/images/icon-up.svg", 
+        "changeState": "up"
+    },
+    {
+        "id": "7",
+        "name": "youtube",
+        "icon": "/images/icon-youtube.svg",
+        "metric": "Likes",
+        "metricValue": "107",
+        "percent": "19",
+        "changeDirection": "/images/icon-down.svg", 
+        "changeState": "down"
+    },
+    {
+        "id": "8",
+        "name": "youtube",
+        "icon": "/images/icon-youtube.svg",
+        "metric": "Total Views",
+        "metricValue": "1407",
+        "percent": "12",
+        "changeDirection": "/images/icon-down.svg", 
+        "changeState": "down"
+    }
+  ]
+}
