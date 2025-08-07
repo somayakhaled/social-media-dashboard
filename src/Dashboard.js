@@ -1,4 +1,5 @@
 import { useState , useEffect } from "react";
+import socialData from './data/socials.json';
 
 const Dashboard = () => {
     const [darkMode, setDarkMode] = useState(false);
@@ -12,15 +13,10 @@ const Dashboard = () => {
     }
 
     useEffect(() => {
-    fetch('/data/socials.json')
-      .then(response => response.json())
-      .then(data => {
-        setSocialData({
-          platforms: data.platforms,
-          todayOverview: data.todayOverview
-        });
-      })
-      .catch(error => console.log('Error fetching data', error));
+    setSocialData({
+      platforms: socialData.platforms,
+      todayOverview: socialData.todayOverview
+    });
   }, []);
 
     return ( 
